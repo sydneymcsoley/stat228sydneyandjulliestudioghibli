@@ -1,0 +1,57 @@
+﻿character name,age,height_in_cm,special_powers,place_of_residence,gender,species,movie_title,release_date,movie_rating_out_of_10_from_imdb
+Totoro,1302,215,"Flight, teleportation",Japan,Male,Spirit,My Neighbor Totoro,1988,8.1
+Chihiro,10,120,N/A,Japan,Female,Human,Spirited Away,2001,8.6
+Haku,12,180,"Flight, shapeshifting",Japan,Male,Spirit (dragon),Spirited Away,2001,8.6
+Princess Mononoke,15,150,N/A,Japan,Female,Human,Princess Mononoke,1997,8.3
+Ashitaka,17,170,"Super strength, agility",Japan,Male,Human,Princess Mononoke,1997,8.3
+Satsuki,4,110,N/A,Japan,Female,Human,My Neighbor Totoro,1988,8.1
+Mei,2,100,N/A,Japan,Female,Human,My Neighbor Totoro,1988,8.1
+Jiji,13,20,Shapeshifting,Japan,Male,Cat,Kiki's Delivery Service,1989,7.8
+Kiki,13,130,"Flight, broomstick flying",Japan,Female,Witch,Kiki's Delivery Service,1989,7.8
+Howl,27,180,"Shapeshifting, flight, magic",Wales,Male,Wizard,Howl's Moving Castle,2004,8.2
+Sophie,18,150,N/A,Europe,Female,Human,Howl's Moving Castle,2004,8.2
+Calcifer,N/A,30,Fire manipulation,Wales,Male,Fire demon,Howl's Moving Castle,2004,8.2
+NausicaÃ¤,16,150,"Telepathy, communication with insects",Japan,Female,Human,NausicaÃ¤ of the Valley of the Wind,1984,8
+Ningyo,N/A,120,N/A,Japan,Male,Mermaid-like creature,When Marnie Was There,2014,7.7
+San,15,150,"Super strength, agility, communication with wolves",Japan,Female,Wolf goddess,Princess Mononoke,1997,8.3
+Pazu,10,120,N/A,Europe,Male,Human,Castle in the Sky,1986,8
+Sheeta,10,120,"Telekinesis, control over levitation crystals",Europe,Female,Human,Castle in the Sky,1986,8
+Shizuku,12,120,N/A,Japan,Female,Human,Whisper of the Heart,1995,7.9
+Seiji,12,120,N/A,Japan,Male,Human,Whisper of the Heart,1995,7.9
+Baron Humbert von Gikkingen,23,180,Shapeshifting into a cat,Europe,Male,Human cat,The Cat Returns,2002,7.1
+Haru,14,150,Shapeshifting into a cat,Japan,Female,Human,The Cat Returns,2002,7.1
+Muta,N/A,40,Shapeshifting into a cat,Japan,Male,Cat,The Cat Returns,2002,7.1
+Ponyo,5,80,Shapeshifting into a fish,Japan,Female,Fish,Ponyo,2008,7.6
+Sosuke,5,100,N/A,Japan,Male,Human,Ponyo,2008,7.6
+Rin,23,150,"Shape-shifting, size manipulation",Japan,Male,Human,Spirited Away,2001,8.6
+Arren,17,170,"Super strength, agility, telekinesis",Europe,Male,Human,The Tale of the Princess Kaguya,2013,8
+Princess Kaguya,N/A,150,"Super strength, agility, telekinesis",Japan,Female,Moon princess,The Tale of the Princess Kaguya,2013,8
+Okkoto,500,200,"Super strength, agility, shapeshifting into a boar",Japan,Male,Boar god,The Tale of the Princess Kaguya,2013,8
+Lily,N/A,100,N/A,Europe,Female,Human,When Marnie Was There,2014,7.7
+Marnie,12,150,N/A,Europe,Female,Human,When Marnie Was There,2014,7.7
+Anna,11,140,N/A,Europe,Female,Human,When Marnie Was There,2014,7.7
+Lettie,16,130,N/A,Europe,Female,Human,When Marnie Was There,2014,7.7
+Red,N/A,120,N/A,Europe,Male,Human,When Marnie Was There,2014,7.7
+No-Face,N/A,180,"Shape-shifting, size manipulation",Japan,Male,Spirit,Spirited Away,2001,8.6
+Yubaba,200,150,"Shape-shifting, size manipulation",Japan,Female,Human,Spirited Away,2001,8.6
+Kamaji,40,150,"Shape-shifting, size manipulation",Japan,Male,Human,Spirited Away,2001,8.6
+Zeniba,200,150,"Shape-shifting, size manipulation",Japan,Female,Human,Spirited Away,2001,8.6
+Ursula,18,170,"Shape-shifting, size manipulation",Europe,Female,Human,Kiki's Delivery Service,1989,7.8
+Tombo,13,130,N/A,Japan,Male,Human,Kiki's Delivery Service,1989,7.8
+Shishigami,N/A,180,"Shape-shifting, size manipulation",Japan,Male,Forest spirit,Princess Mononoke,1997,8.3
+Lasseter,10,170,"Shape-shifting, size manipulation",Japan,Male,Human,Howl's Moving Castle,2004,8.2
+Turnip Head,25,120,"Shape-shifting, size manipulation",Wales,Male,Scarecrow,Howl's Moving Castle,2004,8.2
+Markl,15,120,"Shape-shifting, size manipulation",Wales,Male,Human,Howl's Moving Castle,2004,8.2
+Fanny,N/A,120,"Shape-shifting, size manipulation",Wales,Female,Human,Howl's Moving Castle,2004,8.2
+Heen,N/A,120,"Shape-shifting, size manipulation",Wales,Male,Human,Howl's Moving Castle,2004,8.2
+Soot,N/A,120,"Shape-shifting, size manipulation",Wales,Male,Human,Howl's Moving Castle,2004,8.2
+Goro,N/A,120,"Shape-shifting, size manipulation",Wales,Male,Human,Howl's Moving Castle,2004,8.2
+Sosuke,5,100,"Shape-shifting, size manipulation",Japan,Male,Human,Ponyo,2008,7.6
+Fujimoto,40,170,"Shape-shifting, size manipulation",Japan,Male,Human,Ponyo,2008,7.6
+Granmamma,N/A,150,"Shape-shifting, size manipulation",Japan,Female,Human,Ponyo,2008,7.6
+Porco Rosso,36,N/A,None,Italy,Male,Human,Porco Rosso,1992,7.7
+Curtis,N/A,N/A,None,Italy,Male,Human,Porco Rosso,1992,7.7
+Gina,27,N/A,None,Italy,Female,Human,Porco Rosso,1992,7.7
+Setsuko,4,N/A,None,Japan,Female,Human,Grave of the Fireflies,1988,8.5
+Fio,17,160,None,Italy,Female,Human,Porco Rosso,1992,7.7
+Seita,14,N/A,None,Japan,Male,Human,Grave of the Fireflies,1988,8.5
